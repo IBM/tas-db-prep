@@ -1,0 +1,26 @@
+LSNRCTL for Linux: Version 19.0.0.0.0 - Production on 11-OCT-2021 14:22:39
+
+Copyright (c) 1991, 2019, Oracle.  All rights reserved.
+
+Connecting to (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle19)(PORT=1521)))
+STATUS of the LISTENER
+------------------------
+Alias                     LISTENER
+Version                   TNSLSNR for Linux: Version 19.0.0.0.0 - Production
+Start Date                10-OCT-2021 22:39:32
+Uptime                    0 days 15 hr. 43 min. 6 sec
+Trace Level               off
+Security                  ON: Local OS Authentication
+SNMP                      OFF
+Listener Parameter File   /u01/app/oracle/product/10.0.0/dbhome_1/network/admin/listener.ora
+Listener Log File         /u01/app/oracle/diag/tnslsnr/oracle19/listener/alert/log.xml
+Listening Endpoints Summary...
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=oracle19)(PORT=1521)))
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=ipc)(KEY=EXTPROC1521)))
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=tcps)(HOST=oracle19)(PORT=5500)))
+Services Summary...
+Service "orcl" has 1 instance(s).
+  Instance "orcl", status READY, has 1 handler(s) for this service...
+Service "orclXDB" has 1 instance(s).
+  Instance "orcl", status READY, has 1 handler(s) for this service...
+The command completed successfully
