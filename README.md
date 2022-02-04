@@ -2,10 +2,10 @@
 
 Downloads the folder containing scripts for respective databases-
 
-- [CP4D-DB2WH]()
+- [CP4D-DB2WH](/cp4d-db2wh)
 
 - [External DB2]()
 
 - [External Oracle]()
 
-- [External SQL Server]()
+- [External MS-SQL]()
