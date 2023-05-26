@@ -1,4 +1,4 @@
-# Database Preparation for TRIRIGA Application Suite 11.0
+# Database Preparation for TRIRIGA Application Suite 11.x
 
 Downloads the folder containing scripts for respective databases-
 
